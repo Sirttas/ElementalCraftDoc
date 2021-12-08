@@ -4,8 +4,9 @@ nav:
 - Blocks:
   - Inert Crystal Ore: 'blocks/inert-crystal-ore.md'
   - Shrines:
+    - Shrines: 'blocks/shrines/index.md'
     - Ore Shrine: 'blocks/shrines/ore-shrine.md'
-
+- Items:
+  - Element Shards: 'items/shards.md'
 theme:
   name: readthedocs
-

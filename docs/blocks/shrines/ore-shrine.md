@@ -10,7 +10,7 @@ Ore Shrine
 
 The Ore Shrine excavates ores underneath it and replace it with stone.
 
-### Upgrades:
+### Upgrades
 * __Acceleration Shrine Upgrade__
 * __Capacity Shrine Upgrade__: max 1
 * __Efficiency Shrine Upgrade__
