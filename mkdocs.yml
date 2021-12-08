@@ -1,4 +1,5 @@
 site_name: Elemental Carft Wiki
+docs_dir: docs
 nav:
 - Home: 'index.md'
 - Blocks:
