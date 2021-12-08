@@ -24,4 +24,4 @@ Here is a list of all available infusions:
 | **Focus**      | Reduced Fire spell cost | Reduced Water spell cost | Reduced Earth spell cost | Reduced Air spell cost   |
 | **Staff**      | Sword + Focus effect    | Sword + Focus effect     | Sword + Focus effect     | Sword + Focus effect     |
 
-[Infuser]: /blocks/infuser
+[Infuser]: ../blocks/infuser

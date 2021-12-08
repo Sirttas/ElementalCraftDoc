@@ -17,5 +17,5 @@ __Shards can be found by killing mobs__, the type of mod is important to determi
 __Shards are optional__ in every craft and the whole mod can be done without them.
 They are use in an [Evaporator] to create elements or in a [Gem Crystalizer] to increase the chance of getting a better gem.
 
-[Evaporator]: /blocks/evaporator
-[Gem Crystalizer]: /blocks/gem-crystalizer
+[Evaporator]: ..:../blocks/evaporator
+[Gem Crystalizer]: ../../blocks/gem-crystalizer

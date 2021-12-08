@@ -7,6 +7,7 @@ Shrines can be upgraded by placing [shrine upgrades] on each of their sides.
 
 All shrines have a range that you can display by __right-clicking them with an empty hand while sheeking__. The range will stayed rendered for 30 seconds.
 
-[pipes]: /blocks/pipes
-[element container]: /blocks/element_container
-[shrine upgrades]: /blocks/shrines/upgrades
+
+[pipes]: ../../pipes
+[element container]: ../../element_container
+[shrine upgrades]: ../upgrades

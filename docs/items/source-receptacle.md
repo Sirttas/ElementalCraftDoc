@@ -5,5 +5,5 @@ You can move [sources] using a Source Receptacle. Simply __right-click the sourc
 
 Receptacles existe in two variants, a normal and an improved one. The impropved receptacle as more durability ad can also be repaired using [Fireite].
 
-[sources]: /sources
-[Fireite]: /items/fireite
+[sources]: ../../sources
+[Fireite]: ../fireite

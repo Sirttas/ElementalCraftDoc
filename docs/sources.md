@@ -13,4 +13,4 @@ Durring this phase the source specila effect will change to small dots spread ou
 ### Receptacle
 You can move sources using a [Source Receptacle]. Simply __right-click the source with the receptacle__ and __right-click again where you want to place the source back__.
 
-[Source Receptacle]: /items/source-receptacle
+[Source Receptacle]: ../items/source-receptacle
