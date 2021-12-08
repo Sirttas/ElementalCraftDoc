@@ -11,5 +11,6 @@ nav:
   - Element Shards: 'items/shards.md'
   - Source Receptacle: 'items/source-receptacle.md'
 - Tool Infusions: 'tool-infusions.md'
+
 theme:
-  name: readthedocs
+  name: material
