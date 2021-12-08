@@ -16,3 +16,7 @@ theme:
   name: material
   logo: assets/logo.png
   favicon: assets/logo.png
+
+repo_name: Sirttas/ElementalCraft
+repo_url: https://github.com/Sirttas/ElementalCraft
+edit_uri: https://github.com/Sirttas/ElementalCraftDoc/edit/main/docs/
