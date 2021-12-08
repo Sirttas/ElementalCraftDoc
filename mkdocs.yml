@@ -3,6 +3,8 @@ nav:
 - Home: 'index.md'
 - Blocks:
   - Inert Crystal Ore: 'blocks/inert-crystal-ore.md'
+  - Shrines:
+    - Ore Shrine: 'blocks/shrines/ore-shrine.md'
 
 theme:
   name: readthedocs
