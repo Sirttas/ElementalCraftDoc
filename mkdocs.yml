@@ -1,0 +1,9 @@
+site_name: Elemental Carft Wiki
+nav:
+- Home: 'index.md'
+- Blocks:
+  - Inert Crystal Ore: 'blocks/inert-crystal-ore.md'
+
+theme:
+  name: readthedocs
+
