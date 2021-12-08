@@ -8,5 +8,6 @@ nav:
     - Ore Shrine: 'blocks/shrines/ore-shrine.md'
 - Items:
   - Element Shards: 'items/shards.md'
+- Tool Infusions: 'tool-infusions.md'
 theme:
   name: readthedocs
