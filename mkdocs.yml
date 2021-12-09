@@ -4,6 +4,7 @@ nav:
 - Sources: 'sources.md'
 - Blocks:
   - Inert Crystal Ore: 'blocks/inert-crystal-ore.md'
+  - Pipes: 'blocks/pipes.md'
   - Shrines:
     - Shrines: 'blocks/shrines/index.md'
     - Ore Shrine: 'blocks/shrines/ore-shrine.md'
