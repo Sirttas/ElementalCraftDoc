@@ -8,4 +8,4 @@ By default pipes a connected in insertion mode, by right-clicking a pipe section
 
 [element Containers]: ../element-containers
 [shrines]: ../shrines
-[pedestals]: ../pedestals
+[pedestals]: ../pure-infuser#pedestals
