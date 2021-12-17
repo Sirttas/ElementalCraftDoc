@@ -16,5 +16,9 @@ Sources with a [Source stabilizer] recover elements faster.
 ### Receptacle
 You can move sources using a [Source Receptacle]. Simply __right-click the source with the receptacle__ and __right-click again where you want to place the source back__.
 
+### Traits
+Sources can have traits that define how they wil behave. You can find what traits a source have by using a [Source Analisis Glass] on it.
+
 [Source stabilizer]: ../items/source-stabilizer
 [Source Receptacle]: ../items/source-receptacle
+[Source Analisis Glass]: ../items/source-analisis-glass 
