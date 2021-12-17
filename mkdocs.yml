@@ -9,6 +9,7 @@ nav:
     - Shrines: 'blocks/shrines/index.md'
     - Ore Shrine: 'blocks/shrines/ore-shrine.md'
     - Vacuum Shrine: 'blocks/shrines/vacuum-shrine.md'
+    - Spawning Shrine: 'blocks/shrines/spawning-shrine.md'
   - Pure Infuser: 'blocks/pure-infuser.md'
 - Items:
   - Element Shards: 'items/shards.md'
