@@ -10,7 +10,10 @@ nav:
     - Ore Shrine: 'blocks/shrines/ore-shrine.md'
     - Vacuum Shrine: 'blocks/shrines/vacuum-shrine.md'
     - Spawning Shrine: 'blocks/shrines/spawning-shrine.md'
+    - Upgrades:
+      - Upgrade: 'blocks/shrines/upgrades/index.md'
   - Pure Infuser: 'blocks/pure-infuser.md'
+  - Spell Desk: 'blocks/spell-desk.md'
 - Items:
   - Element Shards: 'items/shards.md'
   - Source Analysis Glass: 'items/source-analysis-glass.md'
